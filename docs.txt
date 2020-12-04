@@ -1,0 +1,21 @@
+Legos are an imperfect anology for HTML, but the toy has enough in common that it's a helpful visual tool to describe HTML.
+
+HTML is not a programming language. Instead, it's a markup (aka., 'building block') language that creates the basic structure of web pages.
+
+
+Nesting elements. When you add an element inside another element (parent/child). This can be done both as independent elements but also inside the HTML elment content.
+
+Tags. Tags are the greater than less than symbols (<>) on either side of the HTML element. The tag name is the type of tag (aka., 'p' 'div' etc). 
+
+Self closing tags. Not all tags require a closing tag. Others close on their own, such as img tags <img src="www.google.com>
+
+Block vs. Inline elements.
+
+Block elements are building blocks of the web. Every tag will make up a new row. 
+
+Inline elements go inside block elements and make up columns within the row. 
+
+Attributes.
+
+
+empty elements? 
