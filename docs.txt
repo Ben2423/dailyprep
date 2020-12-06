@@ -18,4 +18,64 @@ Inline elements go inside block elements and make up columns within the row.
 Attributes.
 
 
-empty elements? 
+empty elements? <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css" class="">
+  <title>Document</title>
+</head>
+<body>
+
+ <h1>The a download attribute</h1>
+
+ <p>Click on the image to download it:
+ <p>
+  <a href="new-win-logo.gif" download>
+   <img src="new-win-logo.gif" alt="W3Schools" width="104" height="142">
+  </a>
+
+ <p><b>Note:</b> The download attribute is not supported in IE or Edge (prior version 18), or in Safari (prior version
+  10.1).</p>
+
+  <p>Written by Doctor Who on <time datetime="2052-11-21">Thursday 21st November 2052</time>.</p>
+
+  <blockquote>
+    <p>He wants to play with his <mark>Legos</mark></p>
+  </blockquote>
+
+  <table>
+    <thead>
+      <tr>
+      <th class="highlight">Name</th>
+      <th>ID</th>
+      <th>Favorite Color</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+       
+        <td>Jim</td>
+        <td>000000000000001</td>
+        <td>Blueuuuuuuuuuuuuuu</td>
+      </tr>
+      <tr>
+        <td>Sue</td>
+        <td>00002</td>
+        <td>Red</td>
+      </tr>
+      <tr>
+        <td>Barb</td>
+        <td>00003</td>
+        <td>Green</td>
+      </tr>
+    </tbody>
+</table>
+
+
+
+
+</body>
+
+</html>
